@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ayana",
+    "age": 21,
+    "jon": "web-developer"
+  },
+  {
+    "name": "Kutman",
+    "age": 19,
+    "jon": "fullstack"
+  },
+  {
+    "name": "Aalam",
+    "age": 19,
+    "jon": "studen of Ala-Too"
+  },
+  {
+    "name": "Milana",
+    "age": 17,
+    "jon": "mentor"
+  },
+  {
+    "name": "Ahmad",
+    "age": 20,
+    "jon": "senior mentor"
+  }
+]

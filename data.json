@@ -1,0 +1,32 @@
+[
+  {
+    "nameCountry": "Kyrgyzstan",
+    "nameOfCity": "kel-suu-lake",
+    "photo": "https://www.advantour.com/img/kyrgyzstan/lakes/kel-suu-lake.jpg"
+  },
+  {
+    "nameCountry": "Thailand",
+    "nameOfCity": "Pa O Don Cha",
+    "photo": "https://www.tripsavvy.com/thmb/2kkEQ5k6yO5P2oAjMhKAlwpFkgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/white-temple-chiang-rai-thailand-1bdb92e67c94481589feb26a6444684e.jpg"
+  },
+  {
+    "nameCountry": "Turkey",
+    "nameOfCity": "Pamukkale",
+    "photo": "https://www.maloriesadventures.com/wp-content/uploads/2023/02/Pamukkale-turquoise-pools-natural-wonder-nature-main-image.jpeg"
+  },
+  {
+    "nameCountry": "Austria",
+    "nameOfCity": "Hallstatt",
+    "photo": "https://img.peapix.com/6bde30c5a1134100b98aa64da6dbda8b_480.jpg"
+  },
+  {
+    "nameCountry": "Iceland",
+    "nameOfCity": "Reykjavik",
+    "photo": "https://perito.media/uploads/post/image/e5fc827ef326f773ff7890f3babb1b8e87bccd03cc0e4c0e7e57a2249d6f1461/iceland-1904295_1280.jpg"
+  },
+  {
+    "nameCountry": "Germany",
+    "nameOfCity": "Nationalpark Sächsisch Schweiz",
+    "photo": "https://blog.synnatschke.de/wp-content/uploads/2012/12/saechsische-schweiz-bastei-winter.jpg"
+  }
+]

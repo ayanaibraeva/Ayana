@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper h1 {
+    text-align: center;
+    font-weight: 400;
+}
+
+.container {
+    width: 1200px;
+    background-color: #a8a8a8;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+
+.countryCard {
+    width: 380px;
+    height: 400px;
+}
+
+.countryCard h2 {
+    text-align: center;
+    font-weight: 400;
+    color: #041a2f;
+}
+
+.countryCard span {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: rgba(24, 22, 22, 0.5);
+}
+
+.countryCard img {
+    object-fit: cover;
+    width: 380px;
+    height: 300px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
